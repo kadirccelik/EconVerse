@@ -14,3 +14,30 @@ Note that Ankara University provides access to JSTOR.
   Also available on [JSTOR](https://www.jstor.org/stable/1884513).
 3. Young, A. (1995). The Tyranny of Numbers: Confronting the Statistical Realities of the East Asian Growth Experience. The Quarterly Journal of Economics, 110(3), 641–680. [https://doi.org/10.2307/2946695](https://doi.org/10.2307/2946695)  
   Also available on [JSTOR](https://www.jstor.org/stable/2946695).
+
+## Week 2: Savings, Investment and Growth
+
+1. Franco Modigliani, Richard Brumberg, 2005. "Utility Analysis and the Consumption Function: An Interpretation of Cross-Section Data", The Collected Papers of Franco Modigliani, Volume 6, Franco Modigliani
+2. N. Gregory Mankiw, David Romer, David N. Weil, A Contribution to the Empirics of Economic Growth, The Quarterly Journal of Economics, Volume 107, Issue 2, May 1992, Pages 407–437, [https://doi.org/10.2307/2118477](https://doi.org/10.2307/2118477)  
+  Also available on [JSTOR](https://www.jstor.org/stable/2118477).
+3. Carroll, C. D., Overland, J., & Weil, D. N. (2000). Saving and Growth with Habit Formation. The American Economic Review, 90(3), 341–355. [https://doi.org/10.1257/aer.90.3.341](https://doi.org/10.1257/aer.90.3.341)  
+  Also available on [JSTOR](http://www.jstor.org/stable/117332).
+4. Feldstein, M., & Horioka, C. (1980). Domestic Saving and International Capital Flows. The Economic Journal, 90(358), 314–329. [https://doi.org/10.2307/2231790](https://doi.org/10.2307/2231790)  
+  Also available on [JSTOR](https://www.jstor.org/stable/2231790)
+5. Horioka, C. Y. (2024). The Feldstein–Horioka Puzzle or Paradox after 44 years: a fallacy of composition. The Japanese Economic Review, 75(3), 383-404. [https://doi.org/10.1007/s42973-024-00153-w](https://doi.org/10.1007/s42973-024-00153-w)  
+  This article is published with open access.
+  
+## Week 3: Is Geography Destiny?[^1]
+
+1. Bloom, D. E., Sachs, J. D., Collier, P., & Udry, C. (1998). Geography, Demography, and Economic Growth in Africa. Brookings Papers on Economic Activity, 1998(2), 207–295. https://doi.org/10.2307/2534695  
+  The DOI refers to JSTOR.
+2. Bleakley, H. (2007). Disease and Development: Evidence from Hookworm Eradication in the American South. The Quarterly Journal of Economics, 122(1), 73–117. [https://doi.org/10.1162/qjec.121.1.73](https://doi.org/10.1162/qjec.121.1.73)  
+  Also available on [JSTOR](http://www.jstor.org/stable/25098838)
+3. Bleakley, H. (2010). Malaria Eradication in the Americas: A Retrospective Analysis of Childhood Exposure. American Economic Journal: Applied Economics, 2(2), 1–45. [https://doi.org/10.1257/app.2.2.1](https://doi.org/10.1257/app.2.2.1)  
+  Also available on [JSTOR](http://www.jstor.org/stable/25760204)
+4. Dell, M., Jones, B. F., & Olken, B. A. (2012). Temperature Shocks and Economic Growth: Evidence from the Last Half Century. American Economic Journal: Macroeconomics, 4(3), 66–95. [10.1257/mac.4.3.66](10.1257/mac.4.3.66)  
+  Also available on [JSTOR](http://www.jstor.org/stable/23269794)
+5. Nunn, N., & Puga, D. (2012). Ruggedness: The Blessing of Bad Geography in Africa. The Review of Economics and Statistics, 94(1), 20–36. [https://doi.org/10.1162/REST_a_00161](https://doi.org/10.1162/REST_a_00161)  
+  Also available on [JSTOR](http://www.jstor.org/stable/41349158)
+
+[^1]: Questioning the quote mostly attributed to Ibn Khaldun
