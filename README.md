@@ -35,7 +35,7 @@ Note that Ankara University provides access to JSTOR.
   Also available on [JSTOR](http://www.jstor.org/stable/25098838).
 3. Bleakley, H. (2010). Malaria Eradication in the Americas: A Retrospective Analysis of Childhood Exposure. American Economic Journal: Applied Economics, 2(2), 1–45. [https://doi.org/10.1257/app.2.2.1](https://doi.org/10.1257/app.2.2.1)  
   Also available on [JSTOR](http://www.jstor.org/stable/25760204).
-4. Dell, M., Jones, B. F., & Olken, B. A. (2012). Temperature Shocks and Economic Growth: Evidence from the Last Half Century. American Economic Journal: Macroeconomics, 4(3), 66–95. [10.1257/mac.4.3.66](10.1257/mac.4.3.66)  
+4. Dell, M., Jones, B. F., & Olken, B. A. (2012). Temperature Shocks and Economic Growth: Evidence from the Last Half Century. American Economic Journal: Macroeconomics, 4(3), 66–95. [https://doi.org/10.1257/mac.4.3.66](https://doi.org/10.1257/mac.4.3.66)  
   Also available on [JSTOR](http://www.jstor.org/stable/23269794).
 5. Nunn, N., & Puga, D. (2012). Ruggedness: The Blessing of Bad Geography in Africa. The Review of Economics and Statistics, 94(1), 20–36. [https://doi.org/10.1162/REST_a_00161](https://doi.org/10.1162/REST_a_00161)  
   Also available on [JSTOR](http://www.jstor.org/stable/41349158).
