@@ -54,3 +54,12 @@ Also available on [JSTOR](http://www.jstor.org/stable/2677930).
   Also available on [JSTOR](http://www.jstor.org/stable/41724681).
 5. Banerjee, A., & Lakshmi Iyer. (2005). History, Institutions, and Economic Performance: The Legacy of Colonial Land Tenure Systems in India. The American Economic Review, 95(4), 1190–1213. [https://doi.org/10.1257/0002828054825574](https://doi.org/10.1257/0002828054825574)  
   Also available on [JSTOR](http://www.jstor.org/stable/4132711).
+  
+## Week 5: From Fields to Factories
+
+1. Lewis, W.A. (1954), Economic Development with Unlimited Supplies of Labour. The Manchester School, 22: 139-191. https://doi.org/10.1111/j.1467-9957.1954.tb00021.x  
+2. Harris, J. R., & Todaro, M. P. (1970). Migration, Unemployment and Development: A Two-Sector Analysis. The American Economic Review, 60(1), 126–142.  
+  [Freely available from AER](https://www.aeaweb.org/aer/top20/60.1.126-142.pdf)
+3.  Kuznets, S. (1955) Economic Growth and Income Inequality. The American Economic Review, 45, 1-28.  
+  [Freely available from AER](https://www.aeaweb.org/aer/top20/45.1.1-28.pdf)
+4. Banerjee, A., Duflo, E., & Qian, N. (2020). On the road: Access to transportation infrastructure and economic growth in China. Journal of Development Economics, 145, 102442. [https://doi.org/10.1016/j.jdeveco.2020.102442](https://doi.org/10.1016/j.jdeveco.2020.102442)  
