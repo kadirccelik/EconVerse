@@ -83,7 +83,7 @@ Also available on [JSTOR](http://www.jstor.org/stable/2677930).
 4. Rodrik, D. (1998). Why do More Open Economies Have Bigger Governments? Journal of Political Economy, 106(5), 997–1032. [https://doi.org/10.1086/250038](https://doi.org/10.1086/250038)  
   Also available on [JSTOR](https://www.jstor.org/stable/10.1086/250038).
 
-## Week 8: People, Not Just Capital
+## Week 8: Is Demography Destiny?
 
 1. Becker, G. S. (1960). An Economic Analysis of Fertility. In Demographic and Economic Change in Developed Countries (NBER).
   Available on [NBER](https://www.nber.org/system/files/chapters/c2387/c2387.pdf).
