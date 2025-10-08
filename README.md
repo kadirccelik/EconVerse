@@ -71,4 +71,4 @@ Also available on [JSTOR](http://www.jstor.org/stable/2677930).
 2. Romer, P. M. (1990). Endogenous Technological Change. Journal of Political Economy, 98(5), S71–S102. [https://doi.org/10.1086/261725](https://doi.org/10.1086/261725)  
   Also available on [JSTOR](http://www.jstor.org/stable/2937632).
 3. Lucas Jr, R. E. (1988). On the mechanics of economic development. Journal of monetary economics, 22(1), 3-42. [https://doi.org/10.1016/0304-3932(88)90168-7](https://doi.org/10.1016/0304-3932(88)90168-7)  
-4.  [https://doi.org/10.1146/annurev-economics-080614-115412](https://doi.org/10.1146/annurev-economics-080614-115412)  
+4. Aghion, P., Akcigit, U., & Howitt, P. (2015). The Schumpeterian growth paradigm. Annual review of economics, 7(1), 557-575. [https://doi.org/10.1146/annurev-economics-080614-115412](https://doi.org/10.1146/annurev-economics-080614-115412)  
