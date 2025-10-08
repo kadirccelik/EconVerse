@@ -72,3 +72,13 @@ Also available on [JSTOR](http://www.jstor.org/stable/2677930).
   Also available on [JSTOR](http://www.jstor.org/stable/2937632).
 3. Lucas Jr, R. E. (1988). On the mechanics of economic development. Journal of monetary economics, 22(1), 3-42. [https://doi.org/10.1016/0304-3932(88)90168-7](https://doi.org/10.1016/0304-3932(88)90168-7)  
 4. Aghion, P., Akcigit, U., & Howitt, P. (2015). The Schumpeterian growth paradigm. Annual review of economics, 7(1), 557-575. [https://doi.org/10.1146/annurev-economics-080614-115412](https://doi.org/10.1146/annurev-economics-080614-115412)  
+
+## Week 7: The World is the Market
+
+1. Singer, H. W. (1950). The Distribution of Gains between Investing and Borrowing Countries. The American Economic Review, 40(2), 473–485.  
+  Also available on [JSTOR](http://www.jstor.org/stable/1818065).
+2. Krugman, P. R. (1979). Increasing returns, monopolistic competition, and international trade. Journal of international Economics, 9(4), 469-479. [https://doi.org/10.1016/0022-1996(79)90017-5](https://doi.org/10.1016/0022-1996(79)90017-5)  
+3. Rodrik, D. Getting Interventions Right: How South Korea and Taiwan Grew Rich. Economic Policy, 10(20), 55–107. [https://doi.org/10.2307/1344538](https://doi.org/10.2307/1344538)  
+  Also available on [JSTOR](https://www.jstor.org/stable/1344538).
+4. Rodrik, D. (1998). Why do More Open Economies Have Bigger Governments? Journal of Political Economy, 106(5), 997–1032. [https://doi.org/10.1086/250038](https://doi.org/10.1086/250038)  
+  Also available on [JSTOR](https://www.jstor.org/stable/10.1086/250038).
