@@ -93,3 +93,14 @@ Also available on [JSTOR](http://www.jstor.org/stable/2677930).
   Also available on [JSTOR](https://www.jstor.org/stable/2118405).
 4. Bleakley, H. (2010). Health, Human Capital, and Development. Annual Review of Economics, 2, 283–310. [https://doi.org/10.1146/annurev.economics.102308.124436](https://doi.org/10.1146/annurev.economics.102308.124436)  
   Also available on [JSTOR](http://www.jstor.org/stable/42940331).
+
+## Week 9: Inequalities Matter Too
+
+1. Galor, O., & Zeira, J. (1993). Income Distribution and Macroeconomics. The Review of Economic Studies, 60(1), 35–52. [https://doi.org/10.2307/2297811](https://doi.org/10.2307/2297811)  
+  Also available on [JSTOR](https://www.jstor.org/stable/2297811).
+2. Banerjee, A. V., & Duflo, E. (2003). Inequality and Growth: What Can the Data Say? Journal of Economic Growth, 8(3), 267–299. [https://doi.org/10.1023/A:1026205114860](https://doi.org/10.1023/A:1026205114860)  
+  Also available on [JSTOR](http://www.jstor.org/stable/40215947).
+3. Mankiw, N. G. (2015). Yes, r> g. So what?. American Economic Review, 105(5), 43-47. [https://doi.org/10.1257/aer.p20151059](https://doi.org/10.1257/aer.p20151059)  
+  Available from [Greg Mankiw](https://scholar.harvard.edu/files/mankiw/files/yes_r_g_so_what.pdf).
+4. Bourguignon, F., & Morrisson, C. (2002). Inequality among World Citizens: 1820-1992. The American Economic Review, 92(4), 727–744. [https://doi.org/10.1257/00028280260344443](https://doi.org/10.1257/00028280260344443)  
+  Also available on [JSTOR](http://www.jstor.org/stable/3083279).
