@@ -115,3 +115,15 @@ Also available on [JSTOR](http://www.jstor.org/stable/2677930).
   Also available on [JSTOR](http://www.jstor.org/stable/25836064).
 
 [^2]: Drawing from Civilization and Its Discontents by Sigmund Freud and Globalization and Its Discontents by Joseph Stiglitz
+
+## Week 11: Money for Nothing[^3]
+
+1. Burnside, C., & Dollar, D. (2000). Aid, Policies, and Growth. The American Economic Review, 90(4), 847–868. [https://doi.org/10.1257/aer.90.4.847](https://doi.org/10.1257/aer.90.4.847)  
+  Also available on [JSTOR](http://www.jstor.org/stable/117311).
+2. Alfaro, L., Chanda, A., Kalemli-Ozcan, S., & Sayek, S. (2004). FDI and economic growth: the role of local financial markets. Journal of international economics, 64(1), 89-112. [https://doi.org/10.1016/S0022-1996(03)00081-3](https://doi.org/10.1016/S0022-1996(03)00081-3)
+3. Banerjee, A., Duflo, E., Glennerster, R., & Kinnan, C. (2015). The Miracle of Microfinance? Evidence from a Randomized Evaluation. American Economic Journal: Applied Economics, 7(1), 22–53. [https://doi.org/10.1257/app.20130533](https://doi.org/10.1257/app.20130533)  
+  Also available from [JSTOR](http://www.jstor.org/stable/43189512).
+4. Reinhart, C. M., & Rogoff, K. S. (2010). Growth in a Time of Debt. The American Economic Review, 100(2), 573–578. [https://doi.org/10.1257/aer.100.2.573](https://doi.org/10.1257/aer.100.2.573)  
+  Also available from [JSTOR](http://www.jstor.org/stable/27805061).
+
+[^3]: Referencing the beautiful song by Dire Straits
