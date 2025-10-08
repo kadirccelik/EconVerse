@@ -82,3 +82,14 @@ Also available on [JSTOR](http://www.jstor.org/stable/2677930).
   Also available on [JSTOR](https://www.jstor.org/stable/1344538).
 4. Rodrik, D. (1998). Why do More Open Economies Have Bigger Governments? Journal of Political Economy, 106(5), 997–1032. [https://doi.org/10.1086/250038](https://doi.org/10.1086/250038)  
   Also available on [JSTOR](https://www.jstor.org/stable/10.1086/250038).
+
+## Week 8: People, Not Just Capital
+
+1. Becker, G. S. (1960). An Economic Analysis of Fertility. In Demographic and Economic Change in Developed Countries (NBER).
+  Available on [NBER](https://www.nber.org/system/files/chapters/c2387/c2387.pdf).
+2. Ben-Porath, Y. (1967). The Production of Human Capital and the Life Cycle of Earnings. Journal of Political Economy, 75(4), 352–365. [https://doi.org/10.1086/259291](https://doi.org/10.1086/259291)  
+  Also available on [JSTOR](http://www.jstor.org/stable/1828596).
+3. Kremer, M. (1993). Population Growth and Technological Change: One Million B.C. to 1990. The Quarterly Journal of Economics, 108(3), 681–716. [https://doi.org/10.2307/2118405](https://doi.org/10.2307/2118405)  
+  Also available on [JSTOR](https://www.jstor.org/stable/2118405).
+4. Bleakley, H. (2010). Health, Human Capital, and Development. Annual Review of Economics, 2, 283–310. [https://doi.org/10.1146/annurev.economics.102308.124436](https://doi.org/10.1146/annurev.economics.102308.124436)  
+  Also available on [JSTOR](http://www.jstor.org/stable/42940331).
