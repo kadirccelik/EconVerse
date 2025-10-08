@@ -111,7 +111,7 @@ Also available on [JSTOR](http://www.jstor.org/stable/2677930).
   Also available on [JSTOR](http://www.jstor.org/stable/2006912).
 2. Rodrik, D. (1999). Where Did All the Growth Go? External Shocks, Social Conflict, and Growth Collapses. Journal of Economic Growth, 4(4), 385–412. [https://doi.org/10.1023/A:1009863208706](https://doi.org/10.1023/A:1009863208706)  
   Also available on [JSTOR](http://www.jstor.org/stable/40216016).
-3. Acemoglu, D., Vindigni, A., & Ticchi, D. (2011). Emergence and Persistence of Inefficient States. Journal of the European Economic Association, 9(2), 177–208. [https://doi.org/10.1111/j.1542-4774.2010.01008.x](https://doi.org/10.1111/j.1542-4774.2010.01008.x)
+3. Acemoglu, D., Vindigni, A., & Ticchi, D. (2011). Emergence and Persistence of Inefficient States. Journal of the European Economic Association, 9(2), 177–208. [https://doi.org/10.1111/j.1542-4774.2010.01008.x](https://doi.org/10.1111/j.1542-4774.2010.01008.x)  
   Also available on [JSTOR](http://www.jstor.org/stable/25836064).
 
 [^2]: Drawing from Civilization and Its Discontents by Sigmund Freud and Globalization and Its Discontents by Joseph Stiglitz
