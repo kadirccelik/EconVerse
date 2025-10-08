@@ -63,3 +63,12 @@ Also available on [JSTOR](http://www.jstor.org/stable/2677930).
 3.  Kuznets, S. (1955) Economic Growth and Income Inequality. The American Economic Review, 45, 1-28.  
   [Freely available from AER](https://www.aeaweb.org/aer/top20/45.1.1-28.pdf)
 4. Banerjee, A., Duflo, E., & Qian, N. (2020). On the road: Access to transportation infrastructure and economic growth in China. Journal of Development Economics, 145, 102442. [https://doi.org/10.1016/j.jdeveco.2020.102442](https://doi.org/10.1016/j.jdeveco.2020.102442)  
+
+## Week 6: Let's Endogenize
+
+1. Romer, P. M. (1986). Increasing Returns and Long-Run Growth. Journal of Political Economy, 94(5), 1002–1037. [https://doi.org/10.1086/261420](https://doi.org/10.1086/261420)  
+  Also available on [JSTOR](http://www.jstor.org/stable/1833190).
+2. Romer, P. M. (1990). Endogenous Technological Change. Journal of Political Economy, 98(5), S71–S102. [https://doi.org/10.1086/261725](https://doi.org/10.1086/261725)  
+  Also available on [JSTOR](http://www.jstor.org/stable/2937632).
+3. Lucas Jr, R. E. (1988). On the mechanics of economic development. Journal of monetary economics, 22(1), 3-42. [https://doi.org/10.1016/0304-3932(88)90168-7](https://doi.org/10.1016/0304-3932(88)90168-7)  
+4.  [https://doi.org/10.1146/annurev-economics-080614-115412](https://doi.org/10.1146/annurev-economics-080614-115412)  
