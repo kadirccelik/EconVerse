@@ -4,9 +4,9 @@ EconVerse is a student-led discussion group on economics. The main focus will be
 
 Note that Ankara University provides access to JSTOR.
 
-# Weekly Schedule
+# Schedule
 
-## Week 1: Let's Look at Economic Growth
+## Session 1: Let's Look at Economic Growth
 
 1. Harrod, R. F. (1939). An Essay in Dynamic Theory. The Economic Journal, 49(193), 14–33. [https://doi.org/10.2307/2225181](https://doi.org/10.2307/2225181)  
   The DOI refers to JSTOR.
@@ -15,7 +15,7 @@ Note that Ankara University provides access to JSTOR.
 3. Young, A. (1995). The Tyranny of Numbers: Confronting the Statistical Realities of the East Asian Growth Experience. The Quarterly Journal of Economics, 110(3), 641–680. [https://doi.org/10.2307/2946695](https://doi.org/10.2307/2946695)  
   Also available on [JSTOR](https://www.jstor.org/stable/2946695).
 
-## Week 2: Savings, Investment and Growth
+## Session 2: Savings, Investment and Growth
 
 1. Franco Modigliani, Richard Brumberg, 2005. "Utility Analysis and the Consumption Function: An Interpretation of Cross-Section Data", The Collected Papers of Franco Modigliani, Volume 6, Franco Modigliani
 2. N. Gregory Mankiw, David Romer, David N. Weil, A Contribution to the Empirics of Economic Growth, The Quarterly Journal of Economics, Volume 107, Issue 2, May 1992, Pages 407–437, [https://doi.org/10.2307/2118477](https://doi.org/10.2307/2118477)  
@@ -27,7 +27,7 @@ Note that Ankara University provides access to JSTOR.
 5. Horioka, C. Y. (2024). The Feldstein–Horioka Puzzle or Paradox after 44 years: a fallacy of composition. The Japanese Economic Review, 75(3), 383-404. [https://doi.org/10.1007/s42973-024-00153-w](https://doi.org/10.1007/s42973-024-00153-w)  
   This article is published with open access.
   
-## Week 3: Is Geography Destiny?[^1]
+## Session 3: Is Geography Destiny?[^1]
 
 1. Bloom, D. E., Sachs, J. D., Collier, P., & Udry, C. (1998). Geography, Demography, and Economic Growth in Africa. Brookings Papers on Economic Activity, 1998(2), 207–295. https://doi.org/10.2307/2534695  
   The DOI refers to JSTOR.
@@ -42,7 +42,7 @@ Note that Ankara University provides access to JSTOR.
 
 [^1]: Questioning the quote mostly attributed to Ibn Khaldun
 
-## Week 4: Is it Institutions?
+## Session 4: Is it Institutions?
 
 1. Acemoglu, D., Johnson, S., & Robinson, J. A. (2001). The Colonial Origins of Comparative Development: An Empirical Investigation. The American Economic Review, 91(5), 1369–1401. [https://doi.org/10.1257/aer.91.5.1369](https://doi.org/10.1257/aer.91.5.1369)  
 Also available on [JSTOR](http://www.jstor.org/stable/2677930).
@@ -55,7 +55,7 @@ Also available on [JSTOR](http://www.jstor.org/stable/2677930).
 5. Banerjee, A., & Lakshmi Iyer. (2005). History, Institutions, and Economic Performance: The Legacy of Colonial Land Tenure Systems in India. The American Economic Review, 95(4), 1190–1213. [https://doi.org/10.1257/0002828054825574](https://doi.org/10.1257/0002828054825574)  
   Also available on [JSTOR](http://www.jstor.org/stable/4132711).
   
-## Week 5: From Fields to Factories
+## Session 5: From Fields to Factories
 
 1. Lewis, W.A. (1954), Economic Development with Unlimited Supplies of Labour. The Manchester School, 22: 139-191. https://doi.org/10.1111/j.1467-9957.1954.tb00021.x  
 2. Harris, J. R., & Todaro, M. P. (1970). Migration, Unemployment and Development: A Two-Sector Analysis. The American Economic Review, 60(1), 126–142.  
@@ -64,7 +64,7 @@ Also available on [JSTOR](http://www.jstor.org/stable/2677930).
   [Freely available from AER](https://www.aeaweb.org/aer/top20/45.1.1-28.pdf)
 4. Banerjee, A., Duflo, E., & Qian, N. (2020). On the road: Access to transportation infrastructure and economic growth in China. Journal of Development Economics, 145, 102442. [https://doi.org/10.1016/j.jdeveco.2020.102442](https://doi.org/10.1016/j.jdeveco.2020.102442)  
 
-## Week 6: Let's Endogenize
+## Session 6: Let's Endogenize
 
 1. Romer, P. M. (1986). Increasing Returns and Long-Run Growth. Journal of Political Economy, 94(5), 1002–1037. [https://doi.org/10.1086/261420](https://doi.org/10.1086/261420)  
   Also available on [JSTOR](http://www.jstor.org/stable/1833190).
@@ -73,7 +73,7 @@ Also available on [JSTOR](http://www.jstor.org/stable/2677930).
 3. Lucas Jr, R. E. (1988). On the mechanics of economic development. Journal of monetary economics, 22(1), 3-42. [https://doi.org/10.1016/0304-3932(88)90168-7](https://doi.org/10.1016/0304-3932(88)90168-7)  
 4. Aghion, P., Akcigit, U., & Howitt, P. (2015). The Schumpeterian growth paradigm. Annual review of economics, 7(1), 557-575. [https://doi.org/10.1146/annurev-economics-080614-115412](https://doi.org/10.1146/annurev-economics-080614-115412)  
 
-## Week 7: The World is the Market
+## Session 7: The World is the Market
 
 1. Singer, H. W. (1950). The Distribution of Gains between Investing and Borrowing Countries. The American Economic Review, 40(2), 473–485.  
   Also available on [JSTOR](http://www.jstor.org/stable/1818065).
@@ -83,7 +83,7 @@ Also available on [JSTOR](http://www.jstor.org/stable/2677930).
 4. Rodrik, D. (1998). Why do More Open Economies Have Bigger Governments? Journal of Political Economy, 106(5), 997–1032. [https://doi.org/10.1086/250038](https://doi.org/10.1086/250038)  
   Also available on [JSTOR](https://www.jstor.org/stable/10.1086/250038).
 
-## Week 8: Is Demography Destiny?
+## Session 8: Is Demography Destiny?
 
 1. Becker, G. S. (1960). An Economic Analysis of Fertility. In Demographic and Economic Change in Developed Countries (NBER).
   Available on [NBER](https://www.nber.org/system/files/chapters/c2387/c2387.pdf).
@@ -94,7 +94,7 @@ Also available on [JSTOR](http://www.jstor.org/stable/2677930).
 4. Bleakley, H. (2010). Health, Human Capital, and Development. Annual Review of Economics, 2, 283–310. [https://doi.org/10.1146/annurev.economics.102308.124436](https://doi.org/10.1146/annurev.economics.102308.124436)  
   Also available on [JSTOR](http://www.jstor.org/stable/42940331).
 
-## Week 9: Inequalities Matter Too
+## Session 9: Inequalities Matter Too
 
 1. Galor, O., & Zeira, J. (1993). Income Distribution and Macroeconomics. The Review of Economic Studies, 60(1), 35–52. [https://doi.org/10.2307/2297811](https://doi.org/10.2307/2297811)  
   Also available on [JSTOR](https://www.jstor.org/stable/2297811).
@@ -105,7 +105,7 @@ Also available on [JSTOR](http://www.jstor.org/stable/2677930).
 4. Bourguignon, F., & Morrisson, C. (2002). Inequality among World Citizens: 1820-1992. The American Economic Review, 92(4), 727–744. [https://doi.org/10.1257/00028280260344443](https://doi.org/10.1257/00028280260344443)  
   Also available on [JSTOR](http://www.jstor.org/stable/3083279).
 
-## Week 10: Reform and Its Discontents[^2]
+## Session 10: Reform and Its Discontents[^2]
 
 1. Alesina, A., & Drazen, A. (1991). Why are Stabilizations Delayed? The American Economic Review, 81(5), 1170–1188.  
   Also available on [JSTOR](http://www.jstor.org/stable/2006912).
@@ -116,7 +116,7 @@ Also available on [JSTOR](http://www.jstor.org/stable/2677930).
 
 [^2]: Drawing from Civilization and Its Discontents by Sigmund Freud and Globalization and Its Discontents by Joseph Stiglitz
 
-## Week 11: Money for Nothing[^3]
+## Session 11: Money for Nothing[^3]
 
 1. Burnside, C., & Dollar, D. (2000). Aid, Policies, and Growth. The American Economic Review, 90(4), 847–868. [https://doi.org/10.1257/aer.90.4.847](https://doi.org/10.1257/aer.90.4.847)  
   Also available on [JSTOR](http://www.jstor.org/stable/117311).
