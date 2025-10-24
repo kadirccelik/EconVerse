@@ -1,4 +1,4 @@
-# Welcome to EconVerse git repo!
+# Welcome to EconVerse Git Repo!
 
 EconVerse is a student-led discussion group on economics. The main focus will be milestone papers about economics. We will also incorporate contemporary issues like artificial intelligence and climate change. Our main aim is to create a debate environment with lots of critical thinking while staying connected to the foundational works that shaped economics.
 
