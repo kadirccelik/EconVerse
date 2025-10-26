@@ -6,8 +6,6 @@ Henüz Türkçe çeviriyi tamamlamadık.
 
 For description and schedule in English, you may visit [README in English](README_en.md).
 
-
-
 # Takvim
 
 # Oturum 1:Ekonomik Büyümeye Bir Bakış
@@ -16,9 +14,6 @@ For description and schedule in English, you may visit [README in English](READM
    DOI, JSTOR'a yönlendirir.
 2. Solow, R. M. (1956). A Contribution to the Theory of Economic Growth. The Quarterly Journal of Economics, 70(1), 65–94. [https://doi.org/10.2307/1884513](https://doi.org/10.2307/1884513)  
    Ayrıca [JSTOR](https://www.jstor.org/stable/1884513) üzerinden ulaşabilirsiniz.
-
-3\. Young, A. (1995). The Tyranny of Numbers: Confronting the Statistical Realities of the East Asian Growth Experience. The Quarterly Journal of Economics, 110(3),       
-
-&nbsp;  641–680.[https://doi.org/10.2307/2946695](https://doi.org/10.2307/2946695)   
+3. Young, A. (1995). The Tyranny of Numbers: Confronting the Statistical Realities of the East Asian Growth Experience. The Quarterly Journal of Economics, 110(3), 641–680.[https://doi.org/10.2307/2946695](https://doi.org/10.2307/2946695)  
    Ayrıca [JSTOR](https://www.jstor.org/stable/1884513) üzerinden ulaşabilirsiniz.
 
