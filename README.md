@@ -28,3 +28,18 @@ For description and schedule in English, you may visit [README in English](READM
   Ayrıca [JSTOR](https://www.jstor.org/stable/2231790) üzerinden ulaşabilirsiniz.
 5. Horioka, C. Y. (2024). The Feldstein–Horioka Puzzle or Paradox after 44 years: a fallacy of composition. The Japanese Economic Review, 75(3), 383-404. https://doi.org/10.1007/s42973-024-00153-w  
   Bu makale açık erişimle yayımlanmıştır.
+
+  ## Oturum 3: Coğrafya Kader midir?[^1]
+
+1. Bloom, D. E., Sachs, J. D., Collier, P., & Udry, C. (1998). Geography, Demography, and Economic Growth in Africa. Brookings Papers on Economic Activity, 1998(2), 207–295. https://doi.org/10.2307/2534695             
+  DOI, JSTOR'a yönlendirir.  
+2. Bleakley, H. (2007). Disease and Development: Evidence from Hookworm Eradication in the American South. The Quarterly Journal of Economics, 122(1), 73–117. https://doi.org/10.1162/qjec.121.1.73  
+ Ayrıca [JSTOR](https://www.jstor.org/stable/25098838) üzerinden ulaşabilirsiniz.
+3. Bleakley, H. (2010). Malaria Eradication in the Americas: A Retrospective Analysis of Childhood Exposure. American Economic Journal: Applied Economics, 2(2), 1–45. https://doi.org/10.1257/app.2.2.1  
+  Ayrıca [JSTOR](https://www.jstor.org/stable/25760204) üzerinden ulaşabilirsiniz.
+4. Dell, M., Jones, B. F., & Olken, B. A. (2012). Temperature Shocks and Economic Growth: Evidence from the Last Half Century. American Economic Journal: Macroeconomics, 4(3), 66–95. https://doi.org/10.1257/mac.4.3.66  
+  Ayrıca [JSTOR](https://www.jstor.org/stable/23269794) üzerinden ulaşabilirsiniz.
+5. Nunn, N., & Puga, D. (2012). Ruggedness: The Blessing of Bad Geography in Africa. The Review of Economics and Statistics, 94(1), 20–36. https://doi.org/10.1162/REST_a_00161 
+  Ayrıca [JSTOR](https://www.jstor.org/stable/41349158) üzerinden ulaşabilirsiniz.  
+  
+  [^1]: "Genellikle İbn Haldun'a atfedilen sözü hatırlayın."
