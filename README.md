@@ -21,10 +21,10 @@ For description and schedule in English, you may visit [README in English](READM
 
 1. Franco Modigliani, Richard Brumberg, 2005. "Utility Analysis and the Consumption Function: An Interpretation of Cross-Section Data", The Collected Papers of Franco Modigliani, Volume 6, Franco Modigliani
 2. N. Gregory Mankiw, David Romer, David N. Weil, A Contribution to the Empirics of Economic Growth, The Quarterly Journal of Economics, Volume 107, Issue 2, May 1992, Pages 407–437, https://doi.org/10.2307/2118477
-   Ayrıca JSTOR üzerinden ulaşabilirsiniz.
+  Ayrıca JSTOR üzerinden ulaşabilirsiniz.
 3. Carroll, C. D., Overland, J., & Weil, D. N. (2000). Saving and Growth with Habit Formation. The American Economic Review, 90(3), 341–355. https://doi.org/10.1257/aer.90.3.341
-   Ayrıca JSTOR üzerinden ulaşabilirsiniz.
-4. Feldstein, M., & Horioka, C. (1980). Domestic Saving and International Capital Flows. The Economic Journal, 90(358), 314–329. https://doi.org/10.2307/2231790
-Also available on JSTOR.
+  Ayrıca JSTOR üzerinden ulaşabilirsiniz.
+4. Feldstein, M., & Horioka, C. (1980). Domestic Saving and International Capital Flows. The Economic Journal, 90(358), 314–329. https://doi.org/10.2307/2231790 
+  Also available on JSTOR.
 Horioka, C. Y. (2024). The Feldstein–Horioka Puzzle or Paradox after 44 years: a fallacy of composition. The Japanese Economic Review, 75(3), 383-404. https://doi.org/10.1007/s42973-024-00153-w
-   Bu makale açık erişimle yayımlanmıştır.
+  Bu makale açık erişimle yayımlanmıştır.
