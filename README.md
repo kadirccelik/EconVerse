@@ -26,5 +26,5 @@ For description and schedule in English, you may visit [README in English](READM
   Ayrıca JSTOR üzerinden ulaşabilirsiniz.
 4. Feldstein, M., & Horioka, C. (1980). Domestic Saving and International Capital Flows. The Economic Journal, 90(358), 314–329. https://doi.org/10.2307/2231790   
   Also available on JSTOR.
-Horioka, C. Y. (2024). The Feldstein–Horioka Puzzle or Paradox after 44 years: a fallacy of composition. The Japanese Economic Review, 75(3), 383-404. https://doi.org/10.1007/s42973-024-00153-w  
+5. Horioka, C. Y. (2024). The Feldstein–Horioka Puzzle or Paradox after 44 years: a fallacy of composition. The Japanese Economic Review, 75(3), 383-404. https://doi.org/10.1007/s42973-024-00153-w  
   Bu makale açık erişimle yayımlanmıştır.
