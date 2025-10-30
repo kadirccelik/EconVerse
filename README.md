@@ -39,7 +39,7 @@ For description and schedule in English, you may visit [README in English](READM
   Ayrıca [JSTOR](https://www.jstor.org/stable/25760204) üzerinden ulaşabilirsiniz.
 4. Dell, M., Jones, B. F., & Olken, B. A. (2012). Temperature Shocks and Economic Growth: Evidence from the Last Half Century. American Economic Journal: Macroeconomics, 4(3), 66–95. https://doi.org/10.1257/mac.4.3.66  
   Ayrıca [JSTOR](https://www.jstor.org/stable/23269794) üzerinden ulaşabilirsiniz.
-5. Nunn, N., & Puga, D. (2012). Ruggedness: The Blessing of Bad Geography in Africa. The Review of Economics and Statistics, 94(1), 20–36. https://doi.org/10.1162/REST_a_00161 
+5. Nunn, N., & Puga, D. (2012). Ruggedness: The Blessing of Bad Geography in Africa. The Review of Economics and Statistics, 94(1), 20–36. https://doi.org/10.1162/REST_a_00161  
   Ayrıca [JSTOR](https://www.jstor.org/stable/41349158) üzerinden ulaşabilirsiniz.  
   
   [^1]: "Genellikle İbn Haldun'a atfedilen sözü hatırlayın."
