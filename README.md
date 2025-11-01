@@ -65,3 +65,12 @@ For description and schedule in English, you may visit [README in English](READM
 3. Kuznets, S. (1955) Economic Growth and Income Inequality. The American Economic Review, 45, 1-28.  
   [AER](https://assets.aeaweb.org/asset-server/files/9438.pdf) üzerinden ulaşabilirsiniz.
 4. Banerjee, A., Duflo, E., & Qian, N. (2020). On the road: Access to transportation infrastructure and economic growth in China. Journal of Development Economics, 145, 102442. https://doi.org/10.1016/j.jdeveco.2020.102442
+
+  ## Oturum 6: İçselleştirelim
+
+1. Romer, P. M. (1986). Increasing Returns and Long-Run Growth. Journal of Political Economy, 94(5), 1002–1037. https://doi.org/10.1086/261420  
+  Ayrıca [JSTOR](https://www.jstor.org/stable/1833190) üzerinden ulaşabilirsiniz.
+2. Romer, P. M. (1990). Endogenous Technological Change. Journal of Political Economy, 98(5), S71–S102. https://doi.org/10.1086/261725  
+  Ayrıca [JSTOR](https://www.jstor.org/stable/2937632) üzerinden ulaşabilirsiniz.
+3. Lucas Jr, R. E. (1988). On the mechanics of economic development. Journal of monetary economics, 22(1), 3-42. https://doi.org/10.1016/0304-3932(88)90168-7  
+4. Aghion, P., Akcigit, U., & Howitt, P. (2015). The Schumpeterian growth paradigm. Annual review of economics, 7(1), 557-575. https://doi.org/10.1146/annurev-economics-080614-115412
